@@ -66,9 +66,3 @@
 
 
 ###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/km2211/count.svg?"  />
-</div>
-
-###
