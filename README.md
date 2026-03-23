@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h2 align="left"> <b><u>Helloww I'm Kaushiki! </u>👋 </b> </h2>
-<h4><i>I'm a tech enthusiast 💻 passionate about coding 👩‍💻 and exploring new technologies 🚀. I love solving problems 🧩, building efficient solutions, and learning 📚. Collaboration excites me 🤝, driving innovation and growth 🌱. Always eager to dive into new projects! 👾</i></h4>
+<h4><i>I Code. I Explore. I Sleep</i></h4>
 
 ###
 
