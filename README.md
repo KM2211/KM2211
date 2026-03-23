@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left"> <b><u>Helloww I'm Kaushiki! </u>👋 </b> </h2>
+<h2 align="left"> <b><u>Kaushiki M</u>👋 </b> </h2>
 <h4><i>I Code. I Explore. I Sleep</i></h4>
 
 ###
